@@ -1,1 +1,5 @@
 Hello World!
+
+This is my first hello world.
+I'm excited to start this journey into the world of coding.
+Every great developers starts somewhere - and this is my beginning.
